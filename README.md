@@ -31,11 +31,11 @@ The project uses a simple logic to measure circularity:
 
 ## Contributing
 
-This project is unfinished and currently not open to contributions.
+This project is unfinished and currently open to contributions.
 
 ## Credits
 
-- **Challenge by:** Ahmed Samir
+I have started this small project because my friend Ahmed Samir challenged me.
 
 ## License
 
