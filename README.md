@@ -1,6 +1,6 @@
 # most-circular-country
 
-A project to determine which countries are most circular.
+A project to determine which countries are most circular. (UNFINISHED)
 
 ## Description
 
